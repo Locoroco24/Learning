@@ -99,6 +99,11 @@ body {
   margin: 0 0 32px;
 }
 
+.skills {
+  max-width: 928px;
+  margin: 0 auto;
+}
+
 .skills-list {
   margin: 0;
   padding: 0;
